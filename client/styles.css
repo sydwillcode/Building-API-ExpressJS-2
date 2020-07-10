@@ -1,0 +1,10 @@
+body {
+    background: lightblue;
+    color: #454545;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.list-group-item {
+    background: rgb(18, 172, 192);
+}
+
